@@ -1,0 +1,40 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Quantum Cloud featuring state of the art the computation capabilities for a modern DevOpsEngineering Design (Node.js/TypeScript version.)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilco-Cyber-Tech-Research-Development/Quantum_Deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilco-Cyber-Tech-Research-Development/Quantum_Deploy/issues"
+  },
+  "homepage": "https://github.com/Wilco-Cyber-Tech-Research-Development/Quantum_Deploy#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@vercel/analytics": "^2.0.1",
+    "autoprefixer": "^10.6.1",
+    "next": "^16.3.5",
+    "postcss": "^8.5.28",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.5",
+    "typescript": "^6.0.3"
+  }
+}
