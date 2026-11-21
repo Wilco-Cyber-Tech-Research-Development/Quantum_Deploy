@@ -1,10 +1,12 @@
-Joseph Lual Community and Commercial License 1.0
-Copyright © 2026 Joseph Lual
+Joseph Mangar Lual Community and Commercial License 1.0
+Copyright © 2026 Joseph Mangar Lual (also known as Joseph Lual / OscaeGTX)
 
 This is a custom source-available license. It is not an OSI-approved open-source license.
 
+For this license, “Licensor” means Joseph Mangar Lual, also known as Joseph Lual / OscaeGTX.
+
 1. Scope and rights holder
-“Licensed Material” means only software and other material in this release that Joseph Lual owns or is authorized to license. This license does not cover material owned by another person or organization, third-party dependencies, trademarks, data, model weights, or hosted services. Separate notices and licenses for those materials continue to apply.
+“Licensed Material” means only software and other material in this release that the Licensor owns or is authorized to license. This license does not cover material owned by another person or organization, third-party dependencies, trademarks, data, model weights, or hosted services. Separate notices and licenses for those materials continue to apply.
 
 2. No-cost Community License
 You may use, copy, modify, and distribute the Licensed Material without charge for personal, educational, research, community, and public-benefit work. Keep this license and applicable copyright notices with copies you distribute, identify material changes, and do not state that you own another person’s work.
@@ -15,13 +17,13 @@ An individual who cannot reasonably afford a separate commercial license may als
 When you distribute a copy or modification under this section, give each recipient this license and the notices that came with the Licensed Material. You may not remove these terms or impose extra terms that take away the rights this section grants.
 
 3. Paid Commercial License
-An organization, or a person who does not qualify for the no-cost grants above, must obtain a separate written commercial license before using the Licensed Material in a paid product or service, a hosted offering for third parties, or other commercial production use. The written agreement will set its price, scope, duration, and any support terms. This file does not set subscription prices or promise access to any hosted model, API, or computing service. Joseph Lual may grant a no-cost commercial waiver in writing and may use, license, or assign the Licensed Material separately, including to a future project entity.
+An organization, or a person who does not qualify for the no-cost grants above, must obtain a separate written commercial license before using the Licensed Material in a paid product or service, a hosted offering for third parties, or other commercial production use. The written agreement will set its price, scope, duration, and any support terms. This file does not set subscription prices or promise access to any hosted model, API, or computing service. The Licensor may grant a no-cost commercial waiver in writing and may use, license, or assign the Licensed Material separately, including to a future project entity.
 
 4. Contributions and third-party material
-This license grants only rights Joseph Lual can grant. Contributions by others and third-party components remain under their own notices or agreements. Nothing here changes their ownership or license terms.
+This license grants only rights the Licensor can grant. Contributions by others and third-party components remain under their own notices or agreements. Nothing here changes their ownership or license terms.
 
 5. Earlier versions
 This license applies to releases distributed with this notice and later releases that include it, only for Licensed Material. It does not revoke or narrow any license already granted for an earlier version, including any MIT or BSD license. Earlier versions remain available under the terms that accompanied them.
 
 6. Other terms
-No patent, trademark, hosted-service, support, or model-access rights are granted unless a separate written agreement says so. The Licensed Material is provided “as is”, without warranties or conditions to the extent permitted by law. The licensor is not liable for claims or damages arising from use of the Licensed Material to the extent permitted by law.
+No patent, trademark, hosted-service, support, or model-access rights are granted unless a separate written agreement says so. The Licensed Material is provided “as is”, without warranties or conditions to the extent permitted by law. The Licensor is not liable for claims or damages arising from use of the Licensed Material to the extent permitted by law.
