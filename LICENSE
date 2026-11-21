@@ -1,206 +1,29 @@
-copyright 2026-Joseph-lual all rights reserved. 
-email: alphaquadron@gmail.com.
+Joseph Mangar Lual Community and Commercial License 1.0
+Copyright © 2026 Joseph Mangar Lual (also known as Joseph Lual / OscaeGTX)
 
-This software and associated documentation files (the "Software") are the exclusive, proprietary property of [Copyright Owner]. No license, right or interest in the Software is granted to any third party, whether by implication, estoppel, or otherwise. Redistribution, reproduction, modification, public display, public performance, sublicensing, sale, lease, transfer, or any other distribution or exploitation of the Software or any portion thereof, in source or binary form, is strictly prohibited without the prior express written permission of Joseph lual.
+This is a custom source-available license. It is not an OSI-approved open-source license.
 
-Tranmitted with recognition to the Australian copyrights laws, Licensing and registrations guidelines  supporting  the endorsed framework for responsible dvelopment of Artificial Intelligence in  modern era
-Updated on the Tue, 11, August 2026
-Copyright notice
-Owner/Developer: Joseph M Lual
-Addresses: 4A Eastbourne Crescent Nollamara 6061 WA Perth WA
-Email: alphaquadron@gmail.com 
-Project: QU-DPL 
-Copyright Version 1.0
-Copyright © 2024-2026 Ziam-Ziam Cyber Tech. All Rights Reserved.
-Administrative Compliance Enforcement Registry
+For this license, “Licensor” means Joseph Mangar Lual, also known as Joseph Lual / OscaeGTX.
 
-The directives outlined on this developer supporting framework is in compliance with Intellectual property rights under Commonwealth legislative copyright laws. 
-alphaquadron@gmail.com
- Assumptions of ownership by default and without written agreement between the host and the developer is prohibited.  ZIAM-ZIAM CYBERTECH CORPORATION takes pride in its fair work practices subject to and in alignment with corporate governance and social responsibilities. 
-Copyright Recognition and Intellectual Property Correspondencies including third parties utilising codex are in subject to the Commonwealth government of Austalia copyright laws and and hereby assert its Jurisdiction authority over all intellectual property ownerships, licencing and compliance of codex operations 
+1. Scope and rights holder
+“Licensed Material” means only software and other material in this release that the Licensor owns or is authorized to license. This license does not cover material owned by another person or organization, third-party dependencies, trademarks, data, model weights, or hosted services. Separate notices and licenses for those materials continue to apply.
 
-Notice: Hosting organisation
-ZIAM ZIAM CYBER TECH CORPORATION 
-welcomes a unified opportunity to  share resources and responsibilities governing Codex in Partnership environment. Responsible leadership does not leave behind the legacy of those who started the noble mission for all. 
-Email: ziamziamtech@gmail.com
- 
-PREAMBLE
-The advancement of Artificial Intelligence represents one of the defining technological transformations of the twenty-first century. Its continued development demands not only scientific excellence but also principled leadership founded upon the enduring Stoic virtues of wisdom, justice, courage, and temperance.
-Ziam-Ziam Cyber Tech affirms that technological innovation must remain inseparable from ethical governance, legal accountability, digital sovereignty, cybersecurity resilience, and the preservation of human dignity.
-This framework establishes the intellectual property rights, licensing principles, collaborative governance standards, and policy expectations governing all proprietary works, software, research, documentation, methodologies, algorithms, system architectures, technical publications, and derivative innovations developed by or on behalf of Ziam-Ziam Cyber Tech.
-The objective of this framework is to strengthen lawful innovation while encouraging responsible international collaboration between governments, academia, industry, independent researchers, civil society, and technology providers operating within the principles of democratic governance, international law, and corporate responsibility.
- 
-ARTICLE I
-COPYRIGHT OWNERSHIP
-All intellectual property created, designed, authored, engineered, documented, researched, or otherwise developed by Ziam-Ziam Cyber Tech shall remain the exclusive property of Ziam-Ziam Cyber Tech unless expressly transferred through a written agreement executed by authorised representatives.
-This protection includes, but is not limited to:
-•	Software source code
-•	Artificial intelligence models
-•	Machine learning architectures
-•	Algorithms
-•	Security frameworks
-•	Technical specifications
-•	Research methodologies
-•	Publications
-•	System designs
-•	Databases
-•	Digital assets
-•	Documentation
-•	Business methodologies
-•	Strategic policy frameworks
-•	Trade secrets
-•	Proprietary engineering concepts
-No ownership rights shall be inferred through hosting, deployment, testing, integration, or collaborative evaluation unless expressly assigned in writing.
- 
-ARTICLE II
-COPYRIGHT RECOGNITION
-Any organisation hosting, evaluating, integrating, testing, or commercially utilising technologies originating from Ziam-Ziam Cyber Tech is requested, and where governed by contractual agreement shall be required, to recognise the original developer and acknowledge the proprietary ownership of the intellectual property.
-Copyright correspondence relating to ownership verification shall be directed to:
-Copyright Office
-ziamziamtech@gmail.com
-Administrative correspondence:
-alphaquadron@gmail.com
- 
-ARTICLE III
-LICENSING PRINCIPLES
-Unless expressly authorised through a separate written licence agreement, all software, documentation, research materials, technical frameworks, and associated intellectual property are licensed solely for authorised evaluation or agreed commercial purposes.
-No licence grants ownership.
-No licence permits redistribution, resale, sublicensing, reverse engineering, replication, or derivative commercial development without prior written approval from Ziam-Ziam Cyber Tech.
-Any authorised licence shall remain subject to applicable copyright legislation, contractual obligations, international intellectual property law, and relevant digital sovereignty regulations.
- 
-ARTICLE IV
-CONTRACTUAL ENGAGEMENT
-Where an organisation intends to deploy, integrate, commercialise, or significantly develop technologies originating from Ziam-Ziam Cyber Tech, the parties should negotiate an appropriate written agreement before production deployment.
-Such agreements should establish:
-•	Intellectual property ownership
-•	Licensing scope
-•	Revenue arrangements where applicable
-•	Confidentiality obligations
-•	Information security responsibilities
-•	Liability allocation
-•	Compliance requirements
-•	Dispute resolution procedures
-•	Termination rights
-•	Ongoing governance obligations
-This approach promotes transparency, responsible innovation, commercial certainty, and sound corporate governance.
- 
-ARTICLE V
-SHARED RESPONSIBILITY IN ARTIFICIAL INTELLIGENCE
-The development of Artificial Intelligence within a free and democratic society requires a doctrine of shared responsibility.
-Every participating organisation should contribute toward:
-•	Information security
-•	Privacy protection
-•	Cyber resilience
-•	Ethical engineering
-•	Transparent governance
-•	Human oversight
-•	Responsible innovation
-•	Regulatory compliance
-•	Respect for digital sovereignty
-Security must not be treated as a post-development activity but as a foundational engineering discipline integrated throughout the complete system development lifecycle.
- 
-ARTICLE VI
-GLOBAL RESEARCH COLLABORATION
-Innovation flourishes through cooperation rather than isolation.
-Ziam-Ziam Cyber Tech supports constructive collaboration among:
-•	Universities
-•	Research institutions
-•	Independent researchers
-•	Government agencies
-•	Technology companies
-•	International organisations
-•	Civil society
-Independent innovation should be recognised on its own merits, and where proprietary contributions are identified, reasonable efforts should be undertaken to establish communication with the originating developer in accordance with applicable intellectual property laws and contractual obligations.
- 
-ARTICLE VII
-SAFETY, ETHICS, AND SYSTEM RESILIENCE
-Ziam-Ziam Cyber Tech advocates the integration of mandatory safety and ethics assessments throughout the engineering lifecycle.
-Accordingly, participating organisations are encouraged to implement:
-•	Continuous security reviews
-•	Ethical impact assessments
-•	Vulnerability management
-•	Independent technical audits
-•	Risk-based governance
-•	Incident reporting mechanisms
-•	Organisational learning frameworks
-Proactive resilience is a superior governance strategy to reactive crisis management.
- 
-ARTICLE VIII
-RISK-BASED ARTIFICIAL INTELLIGENCE GOVERNANCE
-Artificial Intelligence regulation should reflect the principle of proportionality.
-Restrictions should be calibrated according to demonstrable levels of risk while preserving legitimate scientific inquiry, education, healthcare innovation, environmental research, engineering advancement, and other socially beneficial applications.
-Public education concerning the capabilities, limitations, and responsible use of Artificial Intelligence should remain an essential component of national digital resilience.
- 
-ARTICLE IX
-DIGITAL SOVEREIGNTY
-Digital sovereignty requires that Artificial Intelligence systems operate consistently with applicable national legislation, international obligations, cybersecurity requirements, privacy protections, and human rights principles.
-Cross-border deployment of Artificial Intelligence technologies should respect:
-•	National sovereignty
-•	Data governance laws
-•	Privacy legislation
-•	Cybersecurity regulations
-•	International cooperation frameworks
-•	Corporate accountability
-•	Regulatory transparency
-Responsible innovation requires balancing technological progress with lawful oversight.
- 
-ARTICLE X
-TECHNOLOGY, SECURITY, AND INTERNATIONAL COOPERATION
-Artificial Intelligence should be developed to strengthen public safety while respecting international humanitarian law, human rights, and democratic governance.
-Technology alone cannot resolve ideological conflict, violent extremism, or terrorism.
-Long-term solutions require coordinated efforts involving governments, researchers, educators, international organisations, diplomatic institutions, community leaders, and technology providers.
-Accordingly, Ziam-Ziam Cyber Tech supports continued cooperation with governmental institutions, international organisations, humanitarian agencies, academic institutions, and industry partners to improve cybersecurity, prevent online radicalisation, strengthen digital resilience, and encourage evidence-based approaches to emerging technological risks.
- 
-ARTICLE XI
-INDUSTRY COOPERATION
-Ziam-Ziam Cyber Tech encourages the establishment of voluntary international cooperation mechanisms through which technology organisations may exchange anonymised technical information relating to:
-•	System failures
-•	Security vulnerabilities
-•	Recovery methodologies
-•	Defensive engineering practices
-•	Safety research
-•	Cyber resilience
-Such collaboration should always respect confidentiality obligations, intellectual property rights, competition law, and applicable legal requirements.
- 
-ARTICLE XII
-LIMITATION OF LICENCE
-Except where otherwise agreed in writing, this licence does not grant:
-•	Ownership rights
-•	Patent rights
-•	Trademark rights
-•	Commercial exploitation rights
-•	Rights to create derivative proprietary products
-•	Rights to redistribute protected materials
-All rights not expressly granted remain reserved by Ziam-Ziam Cyber Tech.
- 
-GOVERNING PRINCIPLES
-This framework is founded upon:
-•	Rule of Law
-•	Corporate Governance
-•	Academic Integrity
-•	Ethical Engineering
-•	Information Security
-•	Digital Sovereignty
-•	Scientific Excellence
-•	Human Rights
-•	Responsible Innovation
-•	International Cooperation
-•	Transparency
-•	Accountability
-•	Shared Responsibility
- 
-CLOSING DECLARATION
-Ziam-Ziam Cyber Tech respectfully invites governments, universities, technology enterprises, research institutions, independent innovators, and international partners to participate in constructive dialogue concerning the responsible evolution of Artificial Intelligence.
-Our vision is founded upon the belief that enduring technological progress is achieved through lawful governance, principled leadership, scientific excellence, ethical responsibility, and international cooperation.
-By combining innovation with accountability, humanity may establish an Artificial Intelligence ecosystem that advances knowledge, strengthens cybersecurity, promotes peace, and serves future generations with integrity.
-Issued by:
- The administration office for  Intellectual Copyrights,
-Corporate governance and  sustainable developments of AI techcompanies 
-Chairman: Joseph Lual 
+2. No-cost Community License
+You may use, copy, modify, and distribute the Licensed Material without charge for personal, educational, research, community, and public-benefit work. Keep this license and applicable copyright notices with copies you distribute, identify material changes, and do not state that you own another person’s work.
 
+An individual who cannot reasonably afford a separate commercial license may also use the Licensed Material without charge for that individual’s own work, including compensated professional work. The individual may self-certify this in good faith; no income documents are required. This individual grant does not let an organization use the Licensed Material through that person, and does not authorize the individual to provide a hosted product or service that gives other people independent access to the Licensed Material.
 
-Ziam-Ziam Cyber Tech
-Email: alphaquadron@gmail.com
-Copyright Recognition Office
-Email: ziamziamtech@gmail.com
-Copyright © 2026 Ziam-Ziam Cyber Tech. All Rights Reserved.
+2.1 Community redistribution
+When you distribute a copy or modification under this section, give each recipient this license and the notices that came with the Licensed Material. You may not remove these terms or impose extra terms that take away the rights this section grants.
+
+3. Paid Commercial License
+An organization, or a person who does not qualify for the no-cost grants above, must obtain a separate written commercial license before using the Licensed Material in a paid product or service, a hosted offering for third parties, or other commercial production use. The written agreement will set its price, scope, duration, and any support terms. This file does not set subscription prices or promise access to any hosted model, API, or computing service. The Licensor may grant a no-cost commercial waiver in writing and may use, license, or assign the Licensed Material separately, including to a future project entity.
+
+4. Contributions and third-party material
+This license grants only rights the Licensor can grant. Contributions by others and third-party components remain under their own notices or agreements. Nothing here changes their ownership or license terms.
+
+5. Earlier versions
+This license applies to releases distributed with this notice and later releases that include it, only for Licensed Material. It does not revoke or narrow any license already granted for an earlier version, including any MIT or BSD license. Earlier versions remain available under the terms that accompanied them.
+
+6. Other terms
+No patent, trademark, hosted-service, support, or model-access rights are granted unless a separate written agreement says so. The Licensed Material is provided “as is”, without warranties or conditions to the extent permitted by law. The Licensor is not liable for claims or damages arising from use of the Licensed Material to the extent permitted by law.
