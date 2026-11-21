@@ -2,6 +2,6 @@
 Quantum Cloud featuring state of the art the computation capabilities for a modern DevOpsEngineering Design (Node.js/TypeScript version.)
 
 
-## License
+## Operator and license
 
-Versions that include the root `LICENSE` are source-available under Joseph Lual’s Community and Commercial License. Earlier releases retain any valid license already granted, including prior BSD terms. See the license file for community eligibility and the paid commercial route.
+The project is operated by Joseph Mangar Lual, an individual/sole trader under [ABN 92 845 954 362](https://abr.business.gov.au/ABN/View?id=92845954362). The project portfolio business identity is Andoria Pacific Home Developers. Releases that include the root `LICENSE` use the custom Community and Commercial License there. Earlier releases retain valid grants, including prior BSD terms.
